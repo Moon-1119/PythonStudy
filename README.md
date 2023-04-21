@@ -1,2 +1,2 @@
 # PythonStudy
-## Example code
+Example code
